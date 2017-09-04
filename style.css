@@ -1,0 +1,46 @@
+/* V0.1 */
+head {
+}
+body {
+	margin: 0;
+	background-color: grey;
+}
+/*///////////////////////////////////////////////*/
+/* DO NOT TOUCH */
+/*///////////////////////////////////////////////*/
+.top {
+	height: 100px;
+	width: 100%;
+	float: left;
+	position: fixed;
+	top: 0;
+	text-align: top, left;
+	background-image: url(shared/top_back.jpg);
+}
+#nav_ul {
+	list-style-type: none;
+	margin: 0;
+	margin-top: 54px;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+#nav_li {
+	float: left;
+}
+
+#nav_li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+#nav_li a:hover {
+	background-color: #111;
+}
+/*///////////////////////////////////////////////*/
+/* NOW YOU CAN TOUCH */
+/*///////////////////////////////////////////////*/
+
